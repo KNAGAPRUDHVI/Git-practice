@@ -1,7 +1,7 @@
 """
 Source: https://github.com/AK391/yolov5/blob/master/utils/gradio/demo.py
 """
-
+// new project
 import gradio as gr
 import torch
 from PIL import Image
